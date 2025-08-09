@@ -9,5 +9,5 @@ I’m a marine scientist who, in 2024, discovered abit of coding in oceanography
 - 💬 Ask me about my journery thus far as a software developer student. What were my highlights and challenges faced thus far.
 - 📫 How to reach me: number: 0738374153 email: dianneleighwyngaard@gmail.com
 - 😄 Pronouns: she/ her
-- ⚡ Fun fact: I had hated anything computer-related ever since high school and never imagined I’d find myself working behind one in my career that’s why I chose Conservation. But my love for coding, with all its intricacies and challenges, ultimately piqued my interest and I’m excited to surprise myself by graduating in a completely different field.
+- ⚡ Fun fact: I disliked anything computer-related ever since high school and never imagined I’d find myself working behind one in my career that’s why I chose Conservation. But, coding with all its intricacies and challenges, ultimately piqued my interest and I’m excited to surprise myself by graduating in a completely different field.
 
